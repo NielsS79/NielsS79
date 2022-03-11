@@ -5,10 +5,12 @@ Most of all though, I love my wife, dog and cat. Whenever I'm not working I spen
 
 After working for a cloud service provider for more than 20 years, I recently switched jobs. I started working for a small but great company (Etesian IT Consulting, https://etesian.nl/) with huge ambitions (and they've been living up to it).
 
-Most of the stuff I publish here is part of my adventures in the world of blogging. I blog on the following channels:
-https://linkedin.com/in/nielsscheffers/
-https://www.linkedin.com/company/etesian-it-consulting/
-https://allthingscloud.blog/ (Oktay Sari)
+Most of the stuff I publish here is part of my adventures in the world of blogging. For now, most stuff is on my Gist (https://gist.github.com/NielsS79). 
+
+I blog on the following channels:
+* https://linkedin.com/in/nielsscheffers/
+* https://www.linkedin.com/company/etesian-it-consulting/
+* https://allthingscloud.blog/ (Oktay Sari)
 
 You can also always reach me by email. I'll do my best to respond. 
 📫 nscheff@hotmail.com
