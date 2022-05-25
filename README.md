@@ -7,7 +7,8 @@ After working for a cloud service provider for more than 20 years, I recently sw
 
 Most of the stuff I publish here is part of my adventures in the world of blogging. For now, most stuff is on my Gist (https://gist.github.com/NielsS79). 
 
-I blog on the following channels:
+I post on the following channels:
+* https://threeisacloud.tech/
 * https://linkedin.com/in/nielsscheffers/
 * https://www.linkedin.com/company/etesian-it-consulting/
 * https://allthingscloud.blog/ (Oktay Sari)
